@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Raze-o-hub/sub/raw/refs/heads/main/MM2.lua"))()
